@@ -11,7 +11,7 @@ echo -------------
 echo BRUTE FORCING
 echo -------------
 
-for i in {0000..9999}; do
+for i in {000000..999999}; do
 
     echo -----------
     echo TRYING $i
